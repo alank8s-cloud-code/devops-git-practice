@@ -3,6 +3,7 @@
 > A complete Git command reference covering setup, daily workflow, branching, remotes, merging, rebasing, stash, cherry-pick, reset, and revert.
 > This file can learn
 > Beginner purpose
+> build it
 ---
 
 # Table of Contents
