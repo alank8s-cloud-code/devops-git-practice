@@ -1,2 +1,2 @@
 This file is added to the feature-signup.
-Fix this bugs
+ (added: new app logout feature)
