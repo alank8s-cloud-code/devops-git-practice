@@ -1,2 +1,0 @@
-app loging
-app logout
