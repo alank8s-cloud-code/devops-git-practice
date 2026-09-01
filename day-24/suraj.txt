@@ -1,2 +1,0 @@
-This file is added to the feature-signup.
- (added: new app logout feature)
